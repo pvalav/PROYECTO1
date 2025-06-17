@@ -1,0 +1,27 @@
+{
+  "name": "nueva-carpeta-(4)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvalav/PROYECTO1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvalav/PROYECTO1/issues"
+  },
+  "homepage": "https://github.com/pvalav/PROYECTO1#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
